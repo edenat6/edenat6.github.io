@@ -1,0 +1,48 @@
+body {
+font-family: fantasy;
+font-size: 20pt;
+//background-image: url('../images/cute_cat_and_dog.jpg');
+}
+
+	h1 {
+		font-size:50pt;
+	font-family: fantasy;
+	padding: 12px;
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+}
+h2 {
+	font-size: 20.74pt;
+	font-family:fantasy;
+	color: black;
+}
+
+p {
+	color: black;
+}
+ul {
+	font-family: fantasy;
+}
+li {
+	font-family:fantasy;
+}
+img {
+width: 300px;
+border: 15px solid black;
+padding: 12px;
+/*margin-bottom: -20.5px;
+margin-top:20px;
+margin-left: -10px;*/
+}
+h7 {font-family: fantasy;}
+figcaption {
+	font-family: sans-serif;
+	font-size:12.5pt;
+	border: none;
+	margin: 0px;
+	padding: 2px;
+}
+h7 {
+ color: red;
+}
